@@ -15,8 +15,3 @@ The Hive is USA for UNHCR’s innovation lab responsible for bringing data scien
   - Functioning as the internal analytics backbone that enables USA for UNHCR to apply data science to its programming;
   - Providing micro-targeting capabilities and model building expertise for novel means of donor segmentation and messaging; and
   - Pursuing high-risk projects that use emerging technologies to provide unique perspectives on the refugee crisis, and reach new audiences with innovative and compelling content.
-
-
-## Repository Naming Convention
-
-## Pull Request Template
